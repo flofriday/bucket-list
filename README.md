@@ -4,6 +4,7 @@ My personal bucket list of CS projects I want to build some day.
 
 ### Todo
 - [ ] 3D Video Game
+- [ ] Android App
 - [ ] Database
 - [ ] Gameboy Emulator
 - [ ] Neural Network
@@ -13,6 +14,9 @@ My personal bucket list of CS projects I want to build some day.
 - [ ] Websearch Engine
 
 ### Done
+- [x] 2D Video Game
+  * [Doodle Jump Clone](https://github.com/flofriday/jellow)
 - [x] Bot
   * [Personal Bot](https://github.com/flofriday/brobot)
   * [Film Bot](https://github.com/flofriday/filmresourcebot)
+  * [Programmin Lecture Bot](https://github.com/flofriday/EP2-Bot)
