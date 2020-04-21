@@ -5,6 +5,7 @@ My personal bucket list of CS projects I want to build some day.
 ### Todo
 - [ ] 3D Video Game
 - [ ] Android App
+- [ ] Chat Bot (like [ELIZA](https://en.wikipedia.org/wiki/ELIZA))
 - [ ] Database
 - [ ] Gameboy Emulator
 - [ ] Neural Network
