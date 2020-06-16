@@ -6,6 +6,7 @@ My personal bucket list of CS projects I want to build some day.
 - [ ] 3D Video Game
 - [ ] Android App
 - [ ] Chat Bot (like [ELIZA](https://en.wikipedia.org/wiki/ELIZA))
+- [ ] Compression Algorithms (playing around with them)
 - [ ] Database
 - [ ] Gameboy Emulator
 - [ ] Neural Network
