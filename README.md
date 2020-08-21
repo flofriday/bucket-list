@@ -25,3 +25,5 @@ My personal bucket list of CS projects I want to build some day.
   * [Programmin Lecture Bot](https://github.com/flofriday/EP2-Bot)
 - [x] Compression Algorithms (playing around with them)
   * [LZSS](https://github.com/flofriday/compressions)
+- [x] Webserver
+  * [File Sharing Service](https://github.com/flofriday/thumbcloud)
