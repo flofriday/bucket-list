@@ -4,9 +4,8 @@ My personal bucket list of CS projects I want to build some day.
 
 ### Todo
 - [ ] 3D Video Game
-- [ ] Android App
+
 - [ ] Chat Bot (like [ELIZA](https://en.wikipedia.org/wiki/ELIZA))
-- [ ] Compression Algorithms (playing around with them)
 - [ ] Database
 - [ ] Gameboy Emulator
 - [ ] Neural Network
@@ -18,7 +17,11 @@ My personal bucket list of CS projects I want to build some day.
 ### Done
 - [x] 2D Video Game
   * [Doodle Jump Clone](https://github.com/flofriday/jellow)
+- [x] Android App
+  * [Addressbook for my University](https://github.com/flofriday/TU_Wien_Addressbook)
 - [x] Bot
   * [Personal Bot](https://github.com/flofriday/brobot)
   * [Film Bot](https://github.com/flofriday/filmresourcebot)
   * [Programmin Lecture Bot](https://github.com/flofriday/EP2-Bot)
+- [x] Compression Algorithms (playing around with them)
+  * [LZSS](https://github.com/flofriday/compressions)
