@@ -14,6 +14,10 @@ My personal bucket list of CS projects I want to build some day.
 - [ ] Shell
 - [ ] Websearch Engine
 
+### Other fun ideas
+- [ ] regex visualizer
+- [ ] git visualizer
+
 ### Done
 - [x] 2D Video Game
   * [Doodle Jump Clone](https://github.com/flofriday/jellow)
